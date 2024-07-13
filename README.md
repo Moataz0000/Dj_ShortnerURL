@@ -1,2 +1,2 @@
 # Dj_ShortnerURL
-## This is a simple app to takes any long URL and processes it. then create a new URL Short.
+* This is a simple app that takes any long URL, processes it, and then creates a new short URL.
